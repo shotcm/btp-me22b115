@@ -2,4 +2,4 @@ numpy
 panda
 matplotlib
 torch
-sklearn
+skikit-learn
