@@ -1,5 +1,6 @@
 numpy
-panda
+pandas
 matplotlib
 torch
 scikit-learn
+streamlit
